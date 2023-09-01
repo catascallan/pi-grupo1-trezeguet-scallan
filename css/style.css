@@ -20,18 +20,24 @@
     justify-content: center;
 }
 
+.navbar-items {
+    text-decoration: none;
+    color: black;
+}
+
 .form {
     display: flex;
     justify-content: flex-end;
 }
 
-.footer {
+.ulfooter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 
 }
 
 .footer-text {
     list-style: none;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
+
 }
