@@ -56,14 +56,16 @@ body {
 
 /*FORM*/
 
-.form input[type=text] {
-    float: right;
-    padding: 6px;
-    margin-right: 16px;
-    font-size: 15px;
-    border: 1px solid #ccc;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  }
+.contenedorPadre {
+
+    display: flex;
+    justify-content: end;
+
+}
+
+.contenedor.input {
+
+}
 
 /*FOOTER*/
 
