@@ -128,6 +128,14 @@ body {
     margin-bottom: 40px;
 }
 
+.h2-generos {
+    font-size: 22px;
+    font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: lightblue;
+    margin: 10px 20px;
+    font-weight: lighter;
+}
+
 .h3 {
     color: lightblue;
     text-decoration: none;
@@ -137,13 +145,26 @@ body {
 }
 
 .p {
-   font-size: 15px;
-   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+   font-size: 16px;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   max-width: 700px;
+   color: whitesmoke;
+   text-decoration: none;
+
 }
 
 .iframe {
     margin: 0px 70px;
 }
+
+.li {
+    list-style: circle;
+    color: whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+
 
 /*FOOTER*/
 
