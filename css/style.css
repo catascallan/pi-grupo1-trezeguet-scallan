@@ -7,7 +7,11 @@ body {
     background-color: rgb(21, 21, 59);
 }
 
-/*HEADER.....*/
+a {
+    text-decoration: none;
+}
+
+/*HEADER*/
 
 .header {
     background-color: rgb(30, 30, 83);
@@ -158,11 +162,16 @@ body {
 }
 
 .li {
-    list-style: circle;
+    list-style: none;
     color: whitesmoke;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 18px;
-    text-decoration: none;
+    margin-bottom: 10px;
+    background-color: rgba(173, 216, 230, 0.46);
+    max-width: max-content;
+    padding: 10px;
+    border-radius: 12px;
+
 }
 
 
